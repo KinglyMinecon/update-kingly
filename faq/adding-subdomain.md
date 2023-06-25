@@ -10,7 +10,7 @@ description: How to add a subdomain to your Minecraft Server on MCST
 \
 2\) Select "Settings" on the server plan that is suspended.
 
-![](<../.gitbook/assets/image (39).png>)\
+![](<../.gitbook/assets/image (38).png>)\
 \
 3\) Navigate to the "Settings" tab.
 
@@ -22,7 +22,7 @@ description: How to add a subdomain to your Minecraft Server on MCST
 \
 5\) Select the domain-name you wish to have with your server.
 
-![](<../.gitbook/assets/image (33).png>)\
+![](<../.gitbook/assets/image (32).png>)\
 \
 6\) Select "Confirm"
 

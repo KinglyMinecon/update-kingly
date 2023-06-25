@@ -16,7 +16,7 @@ For detailed support, or if you can't find what you're looking for, join our [Di
 \
 2\) Select "View Plan" for the option you're looking for.
 
-![](<.gitbook/assets/image (38).png>)\
+![](<.gitbook/assets/image (39).png>)\
 \
 3\) Find a Free Option, and select "Add to Cart"
 
