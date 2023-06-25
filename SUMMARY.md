@@ -8,6 +8,7 @@
 * [Change MOTD](faq/change-motd.md)
 * [Change Server Icon](faq/change-server-icon.md)
 * [Make Server Private](faq/make-server-private.md)
+* [Adding Subdomain](faq/adding-subdomain.md)
 
 ## Frequent Issues
 
