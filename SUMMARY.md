@@ -12,3 +12,9 @@
 ## Frequent Issues
 
 * [Connection Refused](frequent-issues/connection-refused.md)
+
+***
+
+* [MCST Discord](https://discord.gg/dzAxSz5C4x)
+* [MCST Panel](https://dash.mc-servers.tech/)
+* [MCST Portal](https://dash.mc-servers.tech/portal)
