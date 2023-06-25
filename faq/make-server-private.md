@@ -4,6 +4,19 @@ description: How to make your server private on MCST
 
 # Make Server Private
 
+**Method 2: Console (Recommended)**\
+1\) Navigate to your server panel.\
+2\) Navigate to the server you want to edit.\
+3\) Go to the console tab.\
+3\) Run the command `whitelist enable`\
+\
+To add players to your server, use the command `whitelist add playername`\
+To remove players from your server, use the command `whitelist remove playername`\
+\
+Note:\
+Commands submitted in console do not need a `/` prior to the command.
+
+\
 **Method 1: Files**\
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.\
@@ -19,19 +32,8 @@ For non-technical users, please use the methods below.\
 Note:\
 The line you need to edit may not be as described above, although similar.
 
-\
-\
-**Method 2: Console (Recommended)**\
-1\) Navigate to your server panel.\
-2\) Navigate to the server you want to edit.\
-3\) Go to the console tab.\
-3\) Run the command `whitelist enable`\
-\
-To add players to your server, use the command `whitelist add playername`\
-To remove players from your server, use the command `whitelist remove playername`
 
-\
-\
+
 **Method 3: In-Game**\
 1\) Just the server you want to edit, the IP can be found on the console page of your server.\
 2\) Run the command `/whitelist enable`\
