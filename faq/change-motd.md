@@ -6,7 +6,7 @@ description: How to change your Minecraft Server MOTD on MCST
 
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.\
-3\) Go to the files tab.\
+3\) Navigate to the files tab.\
 4\) Navigate to the root directory.\
 5\) Navigate to `server.properties`\
 6\) Edit the line `motd=A Minecraft Server`, set this to anything you'd like!\

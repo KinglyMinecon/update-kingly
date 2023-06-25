@@ -15,7 +15,7 @@ If those steps don't work, follow the steps below.\
 \
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.\
-3\) Go to the files tab.\
+3\) Navigate to the files tab.\
 4\) Navigate to the root directory.\
 5\) Navigate to `server.properties`\
 6\) Check the line `server-port`, if this is not the same as the port found on the console page, follow step 7. If it is the same, create a ticket on our [Discord Server](https://discord.gg/dzAxSz5C4x)\

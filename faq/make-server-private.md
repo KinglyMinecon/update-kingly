@@ -7,7 +7,7 @@ description: How to make your server private on MCST
 **Method 1: Files**\
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.\
-3\) Go to the files tab.\
+3\) Navigate to the files tab.\
 4\) Navigate to the root directory.\
 5\) Navigate to\
 6\) Edit the line `white-list=false` to `white-list=true`\
