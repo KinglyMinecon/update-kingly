@@ -4,19 +4,22 @@ description: How to make your Minecraft Server private on MCST
 
 # Make Server Private
 
-**Method 2: Console (Recommended)**\
+<details>
+
+<summary>Method 1: Console (Recommended)</summary>
+
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.
 
-![](<../.gitbook/assets/image (25).png>)\
+![](<../.gitbook/assets/image (27).png>)\
 \
 3\) Go to the console tab.
 
-![](<../.gitbook/assets/image (13).png>)\
+![](<../.gitbook/assets/image (14).png>)\
 \
 3\) Run the command `whitelist on`
 
-![](<../.gitbook/assets/image (21).png>)\
+![](<../.gitbook/assets/image (23).png>)\
 ![](<../.gitbook/assets/image (4).png>)\
 \
 To add players to your server, use the command `whitelist add playername`
@@ -25,29 +28,32 @@ To add players to your server, use the command `whitelist add playername`
 \
 To remove players from your server, use the command `whitelist remove playername`
 
-![](<../.gitbook/assets/image (32).png>)\
+![](<../.gitbook/assets/image (35).png>)\
 \
 Note:\
 Commands submitted in console do not need a `/` prior to the command.
 
-\
-\
-**Method 3: In-Game**\
-1\) Just the server you want to edit, the IP can be found on the console page of your server.
+</details>
 
-![](<../.gitbook/assets/image (24).png>)\
+<details>
+
+<summary>Method 2: In-Game</summary>
+
+1\) Join the server you want to edit, the IP can be found on the console page of your server.
+
+![](<../.gitbook/assets/image (26).png>)\
 \
 2\) Run the command `/whitelist on`
 
-![](<../.gitbook/assets/image (27).png>)\
+![](<../.gitbook/assets/image (29).png>)\
 \
 To add players to your server, use the command `/whitelist add playername`
 
-![](<../.gitbook/assets/image (28).png>)\
+![](<../.gitbook/assets/image (30).png>)\
 \
 To remove players from your server, use the command `/whitelist remove playername`
 
-![](<../.gitbook/assets/image (30).png>)\
+![](<../.gitbook/assets/image (33).png>)\
 \
 Note:\
 You must have permissions to run these commands in-game.\
@@ -56,18 +62,21 @@ To add these permissions, follow the steps above:\
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.
 
-![](<../.gitbook/assets/image (16).png>)\
+![](<../.gitbook/assets/image (18).png>)\
 \
 3\) Go to the console tab.
 
 ![](<../.gitbook/assets/image (8).png>)\
 4\) Run the command `op playername`
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (37).png>)
 
-\
-\
-**Method 1: Files**\
+</details>
+
+<details>
+
+<summary>Method 3: Files</summary>
+
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.\
 3\) Navigate to the files tab.\
@@ -81,3 +90,6 @@ For non-technical users, please use the methods below.\
 \
 Note:\
 The line you need to edit may not be as described above, although similar.
+
+</details>
+

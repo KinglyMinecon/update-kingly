@@ -19,11 +19,14 @@ description: How to change your Minecraft Server MOTD on MCST
 \
 5\) Navigate to `server.properties`
 
-![](<../.gitbook/assets/image (31).png>)\
+![](<../.gitbook/assets/image (32).png>)\
 \
 6\) Edit the line `motd=A Minecraft Server`, set this to anything you'd like!\
-\
-Available Color Options in MOTD:
+
+
+<details>
+
+<summary>Available MOTD Color Options</summary>
 
 * `\u00A70` = Black
 * `\u00A71` = Dark Blue
@@ -54,3 +57,5 @@ Example: \
 \
 Note:\
 To add another line to the MOTD, use `\n`
+
+</details>
