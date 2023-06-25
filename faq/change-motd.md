@@ -38,4 +38,7 @@ Available Color Options in MOTD:
 Use each color code before the text you want to change.
 
 Example: \
-`motd=\u00A7cThis \u00A7bIs \u00A7dA \u00A7eMOTD`
+`motd=\u00A7cThis \u00A7bIs \u00A7dA \u00A7eMOTD`\
+\
+Note:\
+To add another line to the MOTD, use `\n`
