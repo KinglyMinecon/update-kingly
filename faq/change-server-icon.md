@@ -7,7 +7,7 @@ description: How to change your Minecraft Server Icon on MCST
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.
 
-![](<../.gitbook/assets/image (16).png>)\
+![](<../.gitbook/assets/image (14).png>)\
 \
 3\) Navigate to the files tab.
 

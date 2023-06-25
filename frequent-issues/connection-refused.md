@@ -23,7 +23,7 @@ If those steps don't work, follow the steps below.\
 \
 3\) Navigate to the files tab.
 
-![](<../.gitbook/assets/image (11).png>)\
+![](<../.gitbook/assets/image (10).png>)\
 \
 4\) Navigate to the root directory.
 
@@ -35,7 +35,7 @@ If those steps don't work, follow the steps below.\
 \
 6\) Check the line `server-port`, if this is not the same as the port found on the console page, follow step 7. If it is the same, create a ticket on our [Discord Server](https://discord.gg/dzAxSz5C4x)
 
-![](<../.gitbook/assets/image (10).png>)\
-![](<../.gitbook/assets/image (15).png>)\
+![](<../.gitbook/assets/image (11).png>)\
+![](<../.gitbook/assets/image (16).png>)\
 \
 7\) Change the port from `25565` to the port found on your console page.
