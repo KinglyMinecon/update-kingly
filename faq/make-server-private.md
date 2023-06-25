@@ -21,7 +21,7 @@ The line you need to edit may not be as described above, although similar.
 
 \
 \
-**Method 2: Console**\
+**Method 2: Console (Recommended)**\
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.\
 3\) Go to the console tab.\

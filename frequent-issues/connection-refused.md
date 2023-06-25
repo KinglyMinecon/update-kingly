@@ -4,8 +4,10 @@ description: How to fix connection refused errors.
 
 # Connection Refused
 
-This applies if you are attempting to connect to your server, but are receiving no error message(s) in console.\
+1\) Check console, if there are errors, attempt to follow any instructions given, and repair the issue.\
+2\) If there are no errors in console, follow the steps below:\
 \
+**If you are receiving no error message in console:**\
 1\) Verify you are using the correct IP, which can be found on the console page of your server.\
 2\) If you're using a proxy, verify you are using the IP of your proxy server.\
 \
