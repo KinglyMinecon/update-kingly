@@ -12,6 +12,7 @@
 
 ## Frequent Issues
 
+* [Server Suspended](frequent-issues/server-suspended.md)
 * [Connection Refused](frequent-issues/connection-refused.md)
 
 ***
