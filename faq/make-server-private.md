@@ -27,7 +27,7 @@ To remove players from your server, use the command `/whitelist remove playernam
 \
 Note:\
 You must have permissions to run these commands in-game.\
-To add these permissions, follow the steps below:\
+To add these permissions, follow the steps above:\
 \
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.\
