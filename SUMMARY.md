@@ -5,5 +5,6 @@
 
 ## FAQ
 
-* [How to change the MOTD](faq/how-to-change-the-motd.md)
-* [Page 1](faq/page-1.md)
+* [Change MOTD](faq/change-motd.md)
+* [Change Server Icon](faq/change-server-icon.md)
+* [Make Server Private](faq/make-server-private.md)
