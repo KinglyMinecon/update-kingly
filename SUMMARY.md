@@ -9,6 +9,8 @@
 * [Change Server Icon](faq/change-server-icon.md)
 * [Make Server Private](faq/make-server-private.md)
 * [Adding Subdomain](faq/adding-subdomain.md)
+* [Add Plugins](faq/add-plugins.md)
+* [Change Server Version](faq/change-server-version.md)
 
 ## Frequent Issues
 

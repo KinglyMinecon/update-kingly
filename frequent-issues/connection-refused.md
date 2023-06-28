@@ -31,11 +31,11 @@ If those steps don't work, follow the steps below.\
 \
 5\) Navigate to server.properties
 
-![](<../.gitbook/assets/image (33).png>)\
+![](<../.gitbook/assets/image (32).png>)\
 \
 6\) Check the line `server-port`, if this is not the same as the port found on the console page, follow step 7. If it is the same, create a ticket on our [Discord Server](https://discord.gg/dzAxSz5C4x)
 
 ![](<../.gitbook/assets/image (10).png>)\
-![](<../.gitbook/assets/image (17).png>)\
+![](<../.gitbook/assets/image (16).png>)\
 \
 7\) Change the port from `25565` to the port found on your console page.

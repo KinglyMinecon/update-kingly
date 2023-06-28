@@ -15,7 +15,7 @@ description: How to make your Minecraft Server private on MCST
 \
 3\) Go to the console tab.
 
-![](<../.gitbook/assets/image (14).png>)\
+![](<../.gitbook/assets/image (15).png>)\
 \
 3\) Run the command `whitelist on`
 
@@ -45,11 +45,11 @@ Commands submitted in console do not need a `/` prior to the command.
 \
 2\) Run the command `/whitelist on`
 
-![](<../.gitbook/assets/image (29).png>)\
+![](<../.gitbook/assets/image (30).png>)\
 \
 To add players to your server, use the command `/whitelist add playername`
 
-![](<../.gitbook/assets/image (30).png>)\
+![](<../.gitbook/assets/image (29).png>)\
 \
 To remove players from your server, use the command `/whitelist remove playername`
 
