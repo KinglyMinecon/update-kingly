@@ -11,15 +11,15 @@ description: How to upload files to your Minecraft Server on MCST
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.
 
-![](<../.gitbook/assets/image (44).png>)\
+![](<../.gitbook/assets/image (12).png>)\
 \
 3\) Navigate to the files tab.
 
-![](<../.gitbook/assets/image (9).png>)\
+![](<../.gitbook/assets/image (14).png>)\
 \
 4\) Navigate to the root directory.
 
-![](<../.gitbook/assets/image (21).png>)\
+![](<../.gitbook/assets/image (42).png>)\
 \
 5\) Drag-And-Drop any files you want to add from your desktop computer.
 
@@ -34,15 +34,15 @@ Download an FTP Client like [FileZilla](https://filezilla-project.org/download.p
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.
 
-![](<../.gitbook/assets/image (44).png>)\
+![](<../.gitbook/assets/image (12).png>)\
 \
 3\) Navigate to the settings tab.
 
-![](<../.gitbook/assets/image (30).png>)\
+![](<../.gitbook/assets/image (27).png>)\
 \
 4\) Input the information required:
 
-![](<../.gitbook/assets/image (39).png>)\
+![](<../.gitbook/assets/image (17).png>)\
 \
 Host: Shown in the settings tab.\
 Username: Shown in the settings tab.\
