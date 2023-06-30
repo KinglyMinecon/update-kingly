@@ -11,24 +11,24 @@ description: How to make your Minecraft Server private on MCST
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.
 
-![](<../.gitbook/assets/image (5).png>)\
+![](<../.gitbook/assets/image (35).png>)\
 \
 3\) Go to the console tab.
 
-![](<../.gitbook/assets/image (19).png>)\
+![](<../.gitbook/assets/image (3).png>)\
 \
 3\) Run the command `whitelist on`
 
-![](<../.gitbook/assets/image (43).png>)\
-![](<../.gitbook/assets/image (1).png>)\
+![](<../.gitbook/assets/image (32).png>)\
+![](<../.gitbook/assets/image (12).png>)\
 \
 To add players to your server, use the command `whitelist add playername`
 
-![](<../.gitbook/assets/image (7).png>)\
+![](<../.gitbook/assets/image (40).png>)\
 \
 To remove players from your server, use the command `whitelist remove playername`
 
-![](<../.gitbook/assets/image (20).png>)\
+![](<../.gitbook/assets/image (28).png>)\
 \
 Note:\
 Commands submitted in console do not need a `/` prior to the command.
@@ -41,19 +41,19 @@ Commands submitted in console do not need a `/` prior to the command.
 
 1\) Join the server you want to edit, the IP can be found on the console page of your server.
 
-![](<../.gitbook/assets/image (33).png>)\
+![](<../.gitbook/assets/image (5).png>)\
 \
 2\) Run the command `/whitelist on`
 
-![](<../.gitbook/assets/image (28).png>)\
+![](<../.gitbook/assets/image (20).png>)\
 \
 To add players to your server, use the command `/whitelist add playername`
 
-![](<../.gitbook/assets/image (27).png>)\
+![](<../.gitbook/assets/image (43).png>)\
 \
 To remove players from your server, use the command `/whitelist remove playername`
 
-![](<../.gitbook/assets/image (9).png>)\
+![](<../.gitbook/assets/image (38).png>)\
 \
 Note:\
 You must have permissions to run these commands in-game.\
@@ -62,15 +62,15 @@ To add these permissions, follow the steps above:\
 1\) Navigate to your server panel.\
 2\) Navigate to the server you want to edit.
 
-![](<../.gitbook/assets/image (26).png>)\
+![](<../.gitbook/assets/image (45).png>)\
 \
 3\) Go to the console tab.
 
-![](<../.gitbook/assets/image (18).png>)\
+![](<../.gitbook/assets/image (7).png>)\
 \
 4\) Run the command `op playername`
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (34).png>)
 
 </details>
 

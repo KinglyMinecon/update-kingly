@@ -6,19 +6,19 @@ description: How to fix your suspended Minecraft Server on MCST
 
 1\) Navigate to "My Plans" on the navigation bar to the left.
 
-![](<../.gitbook/assets/image (29).png>)\
+![](<../.gitbook/assets/image (16).png>)\
 \
 2\) Select "Settings" on the server plan that is suspended.
 
-![](<../.gitbook/assets/image (44).png>)\
+![](<../.gitbook/assets/image (31).png>)\
 \
 3\) Select "Renew Plan"
 
-![](../.gitbook/assets/image.png)\
+![](<../.gitbook/assets/image (25).png>)\
 \
 4\) Select "Pay" (This will not charge you if the selected plan is free.)
 
-![](<../.gitbook/assets/image (12).png>)\
+![](<../.gitbook/assets/image (41).png>)\
 \
 5\) Done!\
 \
