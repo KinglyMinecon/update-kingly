@@ -12,15 +12,15 @@ For detailed support, or if you can't find what you're looking for, join our [Di
 
 1\) Navigate to the "Our Products" page.
 
-![](<.gitbook/assets/image (9).png>)\
+![](<.gitbook/assets/image (4).png>)\
 \
 2\) Select "View Plan" for the option you're looking for.
 
-![](<.gitbook/assets/image (39).png>)\
+![](<.gitbook/assets/image (18).png>)\
 \
 3\) Find a Free Option, and select "Add to Cart"
 
-![](<.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (6).png>)
 
 
 
