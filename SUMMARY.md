@@ -11,6 +11,7 @@
 * [Adding Subdomain](faq/adding-subdomain.md)
 * [Add Plugins](faq/add-plugins.md)
 * [Change Server Version](faq/change-server-version.md)
+* [Upload Files](faq/upload-files.md)
 
 ## Frequent Issues
 
