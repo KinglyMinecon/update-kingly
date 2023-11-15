@@ -48,15 +48,15 @@ description: How to Reset your password on MCST
 
 1)\
 ![](<../.gitbook/assets/password-reset/method2/image(1).png>)
-2)\
+2\)
 ![](<../.gitbook/assets/password-reset/method2/image(2).png>)
-3)\
+3\)
 ![](<../.gitbook/assets/password-reset/method2/image(3).png>)
-4)\
+4\)
 ![](<../.gitbook/assets/password-reset/method2/image(4).png>)
-5)\
+5\)
 ![](<../.gitbook/assets/password-reset/method2/image(5).png>)
-6)\
+6\)
 ![](<../.gitbook/assets/password-reset/method2/image(6).png>)
 
 </details>
