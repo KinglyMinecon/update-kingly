@@ -14,11 +14,11 @@ description: How to Reset your password on MCST
   
 <summary>Images</summary>
 
-1\)
+1)\
 ![](<../.gitbook/assets/password-reset/image(1).png>)\
-2\)
+2)\
 ![](<../.gitbook/assets/password-reset/image(2).png>)\
-3\)
+3)\
 ![](<../.gitbook/assets/password-reset/image(3).png>)
 </details>
 
