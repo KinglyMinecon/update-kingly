@@ -40,7 +40,7 @@ description: How to Reset your password on MCST
 8\) Enter your new password.\
 9\) Click reset password.\
 10\) Enter your new password twice.\
-11\) Click reset password.\
+11\) Click reset password.
 
 <details>
 
