@@ -30,6 +30,8 @@ description: How to Reset your password on MCST
 
 <summary>Method 2: Without Current Password (Logged in with Oauth)</summary>
 
+# Password Reset
+
 1\) Make Sure you are logged out of any accounts.\
 2\) Click login.\
 3\) Click forgot password.\
