@@ -51,4 +51,13 @@ Port: Your server's port.\
 \
 5\) Upload files to the FTP client, they will appear on your server.
 
+<details>
+<summary>Whats My Password?</summary>
+  
+If you have logged in with Discord, Gmail or Github you will need to do a password reset to use SFTP.\
+To do so follow [this guide](password-reset.md):\
+
+
+</details>
+
 </details>
