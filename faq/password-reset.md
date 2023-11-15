@@ -61,6 +61,4 @@ description: How to Reset your password on MCST
 
 </details>
 
-)\
-
 </details>
