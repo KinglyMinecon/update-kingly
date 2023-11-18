@@ -7,8 +7,12 @@ description: How to Reset your password on MCST
 <summary>Method: 1 With Current Password</summary>
 
 1\) Navigate To Your My Account Page While Logged Into Your Account.\
+![](<../.gitbook/assets/password-reset/method1/image(1).png>)\
+![](<../.gitbook/assets/password-reset/method1/image(2).png>)\
 2\) Then Under Update Password enter your old password and new passwo.rd.\
-3\) Click Update.
+![](<../.gitbook/assets/password-reset/method1/image(3).png>)\
+3\) Click Update.\
+![](<../.gitbook/assets/password-reset/method1/image(4).png>)
 
 <details>
   
@@ -34,6 +38,7 @@ description: How to Reset your password on MCST
 
 1\) Make Sure you are logged out of any accounts.\
 2\) Click login.\
+
 3\) Click forgot password.\
 4\) Enter your email.\
 5\) Click send email.\
