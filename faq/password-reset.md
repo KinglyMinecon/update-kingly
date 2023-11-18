@@ -2,6 +2,8 @@
 description: How to Reset your password on MCST
 ---
 
+# Reset Password
+
 <details>
   
 <summary>Method: 1 With Current Password</summary>
@@ -36,9 +38,8 @@ description: How to Reset your password on MCST
 7\) Click the Reset Password Button.\
 ![](<../.gitbook/assets/password-reset/method2/image(6).png>)\
 8\) Enter your new password.\
-9\) Click reset password.\
-10\) Enter your new password twice.\
-11\) Click reset password.
+9\) Enter your new password twice.\
+10\) Click reset password.
 ![](<../.gitbook/assets/password-reset/method2/image(7).png>)
 
 </details>
