@@ -13,6 +13,7 @@
 * [Change Server Version](faq/change-server-version.md)
 * [Upload Files](faq/upload-files.md)
 * [Reset Password](faq/password-reset.md)
+* [Claim Giftcard](faq/claim-giftcard.md)
 
 ## Frequent Issues
 
