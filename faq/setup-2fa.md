@@ -9,11 +9,9 @@ To Use 2FA You will need an Authenticator app like [Authy](https://authy.com/dow
 1\) Navigate to the My Account page
 
 ![](<../.gitbook/assets/setup-2fa/image(1).png>)\
-\
-2\) Click Enable Two-Step
-
 ![](<../.gitbook/assets/setup-2fa/image(2).png>)\
 \
+2\) Click Enable Two-Step\
 3\) Scan (Or Enter) the code in your authenticator app.
 
 ![](<../.gitbook/assets/setup-2fa/image(3).png>)\

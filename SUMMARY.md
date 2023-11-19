@@ -16,6 +16,7 @@
 * [Claim Giftcard](faq/claim-giftcard.md)
 * [Change Email](faq/change-email.md)
 * [Setup 2FA](faq/setup-2fa.md)
+* [Setup Affiliates](faq/activate-affiliates.md)
 
 ## Frequent Issues
 
