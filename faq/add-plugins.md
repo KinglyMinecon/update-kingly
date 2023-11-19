@@ -4,8 +4,6 @@ description: How to add plugins to your Minecraft Server on MCST
 
 # Add Plugins
 
-
-
 <details>
 
 <summary>Method 1: Plugin Manager</summary>
