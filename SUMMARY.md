@@ -14,6 +14,7 @@
 * [Upload Files](faq/upload-files.md)
 * [Reset Password](faq/password-reset.md)
 * [Claim Giftcard](faq/claim-giftcard.md)
+* [Change Email](faq/change-email.md)
 
 ## Frequent Issues
 
