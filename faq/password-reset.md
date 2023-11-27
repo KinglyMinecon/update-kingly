@@ -8,7 +8,7 @@ description: How to Reset your password on MCST
   
 <summary>Method: 1 With Current Password</summary>
 
-1\) Navigate To Your My Account Page While Logged Into Your Account.\
+1\) Navigate To Your My Account Page While Logged Into Your Account.
 
 ![](<../.gitbook/assets/password-reset/method1/image(1).png>)\
 \
