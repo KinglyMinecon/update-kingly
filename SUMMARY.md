@@ -23,6 +23,10 @@
 * [Server Suspended](frequent-issues/server-suspended.md)
 * [Connection Refused](frequent-issues/connection-refused.md)
 
+### How To
+
+* [Server URL](what-is-asked/server-url.md)
+
 ***
 
 * [MCST Discord](https://discord.gg/dzAxSz5C4x)
