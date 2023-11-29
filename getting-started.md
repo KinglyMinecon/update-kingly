@@ -12,15 +12,19 @@ For detailed support, or if you can't find what you're looking for, join our [Di
 
 1\) Navigate to the "Our Products" page.
 
-![](<.gitbook/assets/image (43).png>)\
+![](<.gitbook/assets/getting-started/image (1).png>)\
 \
 2\) Select "View Plan" for the option you're looking for.
 
-![](<.gitbook/assets/image (6).png>)\
+![](<.gitbook/assets/getting-started/image (2).png>)\
 \
 3\) Find a Free Option, and select "Add to Cart"
 
-![](<.gitbook/assets/image (49).png>)
+![](<.gitbook/assets/getting-started/image (3).png>)\
+\
+4\) Click Place Order
+
+![](<.gitbook/assets/getting-started/image (4).png>)
 
 
 
