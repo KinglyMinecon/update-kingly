@@ -1,5 +1,5 @@
 ---
-How to get your server url on MCST Hosting
+description: How to get your server url on MCST Hosting
 ---
 
 # How To Get Server URL
