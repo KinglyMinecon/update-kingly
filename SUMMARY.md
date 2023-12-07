@@ -17,11 +17,16 @@
 * [Change Email](faq/change-email.md)
 * [Setup 2FA](faq/setup-2fa.md)
 * [Setup Affiliates](faq/activate-affiliates.md)
+* [Cancel Server](faq/cancel-server.md)
 
 ## Frequent Issues
 
 * [Server Suspended](frequent-issues/server-suspended.md)
 * [Connection Refused](frequent-issues/connection-refused.md)
+
+### How To
+
+* [Server URL](what-is-asked/server-url.md)
 
 ***
 
