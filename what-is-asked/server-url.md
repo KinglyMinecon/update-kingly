@@ -12,7 +12,7 @@ description: How to get your server url on MCST Hosting
 
 ![](<../.gitbook/assets/server-url/image(2).png>)\
 \
-3\) Right Click
+3\) Right Click\
 4\) Click Copy
 
-![](<../.gitbook/assets/affiliates/image(3).png>)
+![](<../.gitbook/assets/server-url/image(3).png>)
