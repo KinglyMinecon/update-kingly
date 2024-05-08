@@ -1,5 +1,7 @@
 # Welcome to MCST's Wiki
 
+Moved! --> https://github.com/mcst-hosting/docs
+
 Welcome to the MCST Wiki\
 \
 You will be able to find a lot of helpful information here.\
